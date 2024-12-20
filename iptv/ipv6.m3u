@@ -270,7 +270,7 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:9 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
-#EXTINF:17 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
+#EXTINF:17 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/1021683053/iptv/main/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.png" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 
 #EXTINF:10 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS%E6%96%B0%E9%97%BB.png" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
