@@ -6,3 +6,4 @@
 - [老张-epg](http://epg.51zmt.top:8000/)
 - [iptv-api](https://github.com/Guovin/iptv-api)
 - [aktv](https://aktv.top/live.m3u)
+- [论坛](https://linux.do/t/topic/242289)
